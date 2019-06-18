@@ -1,7 +1,7 @@
 <h2>Privacy Policy</h2>
 
 
-Scythia built the Ukrainian Funny Chicken: Egypt app as a Free app. This SERVICE is provided by Scythia at no cost and is intended for use as is.
+Scythia built the <h4>Ukrainian Funny Chicken: Egypt </h4> app as a Free app. This SERVICE is provided by Scythia at no cost and is intended for use as is.
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Ukrainian Funny Chicken: Egypt unless otherwise defined in this Privacy Policy.
@@ -13,11 +13,11 @@ The app does use third party services that may collect information used to ident
 
 <h2>Link to privacy policy of third party service providers used by the app</h2>
 
-<h1>•	Google Play Services
+<h3>•	Google Play Services
 
 •	AdMob
 
-•	Facebook</h1>
+•	Facebook</h3>
 
 <h2>Log Data</h2>
 
